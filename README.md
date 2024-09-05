@@ -25,6 +25,7 @@
 <br />
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimgorok)]([벨로그링크](https://velog.io/@kimgorok/posts))
+https://velog.io/@kimgorok/posts
 
 #### Contact
 ![G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <p> kjyse2@gmail.com </p>
