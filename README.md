@@ -6,6 +6,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kimgorok&theme=dark&locale=ko&fire=EB08BC)](https://git.io/streak-stats)
 
+- 가천대학교 컴퓨터공학과 4학년 재학
+
 <br />
 
 #### 프론트엔드 개발자예요 😊
@@ -20,12 +22,6 @@
 
 <br />
 
-#### 그리고 여기는 저의 Velog 입니다
-
-<br />
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kimgorok)]([벨로그링크](https://velog.io/@kimgorok/posts))
-https://velog.io/@kimgorok/posts
 
 #### Contact
 ![G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <p> kjyse2@gmail.com </p>
