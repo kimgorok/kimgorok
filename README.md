@@ -4,7 +4,6 @@
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kimgorok&theme=dark&locale=ko&fire=EB08BC)](https://git.io/streak-stats)
 
 - 가천대학교 컴퓨터공학과 4학년 재학
 
