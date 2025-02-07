@@ -7,6 +7,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kimgorok&theme=dark&hide_border=%EA%B1%B0%EC%A7%93&locale=ko&short_numbers=%EA%B1%B0%EC%A7%93)](https://git.io/streak-stats)
 
 
+- 1년 연속 커밋 달성! 감사합니다.
 
 
 - 가천대학교 컴퓨터공학과 4학년 재학
