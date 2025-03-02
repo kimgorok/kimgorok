@@ -16,8 +16,6 @@
 
 #### 프론트엔드 개발자예요 😊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimgorok)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
 
 #### 저의 메인 스킬입니다
