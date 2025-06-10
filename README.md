@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kimgorok's%20GitHub&fontSize=90" />
 
-반갑습니다! 성실하고 성장하는 프론트엔드 개발자 김현중입니다!😎
+반갑습니다!! 성실하고 성장하는 프론트엔드 개발자 김현중입니다!😎
 
 
 <br />
