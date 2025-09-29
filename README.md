@@ -31,10 +31,8 @@
 <br />
 <hr />
 
-- 500일 연속 커밋 달성! 감사합니다. (2024.02.08 ~ 2025.06.21) 
-![500일연속](https://github.com/user-attachments/assets/5235d290-7138-4592-9c39-aac55941c36a)
-
-![image](https://github.com/user-attachments/assets/a5f243f3-c37a-4438-a39c-b42d2a52eab1)
+- 600일 연속 커밋 달성! 감사합니다. (2024.02.08 ~ 2025.09.29) 
+<img width="495" height="195" alt="600" src="https://github.com/user-attachments/assets/df41af58-3b7a-4fc4-9ada-10f9eb157dce" />
 
 
 
