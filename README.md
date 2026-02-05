@@ -31,9 +31,9 @@
 <br />
 <hr />
 
-- 700일 연속 커밋 달성! 감사합니다. (2024.02.08 ~ 2026.01.07) 
+- 2년 연속 커밋 달성! 감사합니다. (2024.02.08 ~ 2026.02.06) 
 
-<img width="639" height="247" alt="700" src="https://github.com/user-attachments/assets/6542dce8-018a-46a0-8280-9ef0b14814b1" />
+<img width="601" height="222" alt="730" src="https://github.com/user-attachments/assets/ed77fe02-5611-42b3-8713-937e306a467c" />
 
 
 
